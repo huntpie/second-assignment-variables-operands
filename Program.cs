@@ -52,7 +52,8 @@ namespace second_assignment_variables_operands
         + firstOperand + ", and your second number, "
         + secondOperand + ", the total is "
         + sum + ", the difference of your two numbers: "
-        + difference + ", product: "
+        + difference + ", quotient: "
+        + quotient + ", product: "
         + product + ", remainder: "
         + remainder + ".");
 
